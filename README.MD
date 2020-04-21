@@ -1,6 +1,6 @@
 # open Source Software Mid Term
 
-## 외부 라이브러리 사용 방법
+### 외부 라이브러리 사용 방법
 
 1. 해당 프로젝트를 본인 프로젝트 위치에서 clone
 
@@ -8,12 +8,13 @@
 
 3. 메이븐 프로젝트 pom.xml 파일에 아래에 dependency 추가
 
+
  
-라이브러리 설명
+## 라이브러리 설명
 
-## import mid_term.problem1.RegularExpression;
+### import mid_term.problem1.RegularExpression;
 
-## class RegularExpression()
+### class RegularExpression()
 
 ### public boolean check(String sentence, String pattern)
    sentence에서 pattern이 존재하면 true return, 그렇지 않으면 false return
