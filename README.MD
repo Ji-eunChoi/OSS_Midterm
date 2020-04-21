@@ -22,6 +22,6 @@ import mid_term.problem1.RegularExpression;
 
 class RegularExpression()
 
-public boolean check(String sentence, String pattern)
+public boolean check(String sentence, String pattern)\n
     sentence에서 pattern이 존재하면 true return, 그렇지 않으면 false return
     
