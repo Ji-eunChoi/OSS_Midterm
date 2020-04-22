@@ -31,6 +31,6 @@
    if (re.check(sentence, pattern)){
       System.out.println("인사말이 포함되어 있습니다.");
    } else
-      System.out.println("인사말이 포함되어 있지 않습니다.")
+      System.out.println("인사말이 포함되어 있지 않습니다.");
   
 ~~~~
