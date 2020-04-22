@@ -21,7 +21,7 @@
 ## 라이브러리 사용 예시
 
 ~~~~
-  import mid_term.problem1.RegularExpression;
+  import midterm.problem2.RegularExpression;
   ~~
   
    RegularExpression re = new RegularExpression();
